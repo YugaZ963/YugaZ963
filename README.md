@@ -2,7 +2,7 @@
 
 🎓 _Mahasiswa Teknik Informatika di Universitas Langlangbuana_  
 📍 Bandung, Indonesia | 📧 [yuga.azka01@gmail.com](mailto:yuga.azka01@gmail.com)  
-📞 [+62 899 3950 095](tel:+628993950095) | 💼 [GitHub Profile](https://github.com/yugaazka)
+📞 [+62 899 3950 095](tel:+628993950095) | 💼 [GitHub Profile](https://github.com/YugaZ963)
 
 > _"Selalu belajar, selalu berkembang dalam dunia teknologi."_
 
