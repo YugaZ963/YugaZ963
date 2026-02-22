@@ -53,7 +53,7 @@
 - Mewakili organisasi dan membangun hubungan strategis dengan pihak eksternal.
 
 ### 🏫 Asisten Laboratorium
-**Universitas Langlangbuana** 📅 September 2023 - Februari 2026
+**Universitas Langlangbuana** 📅 September 2023 - September 2025
 - Membantu dosen dalam mengajarkan materi spesifik pemrograman, seperti dasar-dasar Java, Sistem Operasi, dan Jaringan Komputer.
 - Berkomunikasi secara efektif dengan mahasiswa dan rekan kerja dalam sikap yang profesional.
 
@@ -74,14 +74,8 @@
 
 - **Sistem Optimasi Penjadwalan Staf Bandara** | *Python, Metaheuristik*
   Mengembangkan model optimasi multi-objektif untuk *rostering* staf lapangan di bandara.
-- **Aplikasi Mobile Travel Bus** | *Flutter*
-  Membangun desain antarmuka (UI/UX) dan *frontend* aplikasi pemesanan tiket perjalanan bus.
-- **Klasifikasi Citra Kain Tenun** | *MobileNetV2*
-  Membuat model klasifikasi citra untuk 7 jenis kain tenun dengan target akurasi tinggi menggunakan augmentasi data.
 - **Sistem Presensi Pengunjung Perpustakaan** | *RFID, Local Server*
   Membangun sistem kehadiran pengunjung terintegrasi dengan kartu RFID beserta fitur pelaporan admin.
-- **Pengembangan Website Pemerintahan** | *React*
-  Membangun antarmuka (*frontend*) untuk portal informasi instansi pemerintah.
 - **Sistem Otentikasi & Enkripsi Data** | *Kriptografi*
   Menerapkan algoritma kriptografi untuk keamanan transmisi data dan sistem otentikasi.
 
