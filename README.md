@@ -92,17 +92,6 @@
 
 ---
 
-## 📊 Statistik Profil GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugaazka&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yugaazka&layout=compact&theme=radical)
-
----
-
-## 👥 Jumlah Pengunjung Profil
-
-![Visitor Count](https://profile-counter.glitch.me/yugaazka/count.svg)
-
----
 
 Terima kasih telah mengunjungi profil saya! Jika Anda ingin terhubung atau bekerja sama, silakan hubungi saya melalui email atau media sosial yang tersedia. Mari bersama-sama membangun solusi teknologi masa depan! 🚀
