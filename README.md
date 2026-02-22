@@ -28,53 +28,62 @@
 | Database  | MySQL         | Intermediate       |
 | VR        | Meta Quest    | Beginner           |
 
-[cite_start]*(Catatan: Python, C++, dan C# telah ditambahkan sesuai profil PDF)* [cite: 10, 11, 12]
-
 ---
 
 ## 🎓 Pendidikan
 
 **Universitas Langlangbuana** 📅 2021 - Sekarang  
-[cite_start]🎓 Program Studi: **Teknik Informatika** 📊 IPK: **3.60** 
+🎓 Program Studi: **Teknik Informatika** 📊 IPK: **3.60**
 
 ---
 
 ## 💼 Pengalaman Kerja & Organisasi
 
-### 🥽 VR DEV
+### 🥽 VR Developer
 **INA-VR**
-📅 Agustus 2024 - Januari 2025 | [cite_start]Juni 2025 - Agustus 2025 
-- [cite_start]Membuat *Code Scripts* untuk kebutuhan interaksi aplikasi[cite: 55].
-- [cite_start]Membangun aplikasi VR dari berbagai *Scripts*, model 3D, Teks, dan Audio[cite: 56].
-- [cite_start]Merancang dan mendesain *scene* tampilan VR[cite: 57].
+📅 Agustus 2024 - Januari 2025 | Juni 2025 - Agustus 2025
+- Membuat *Code Scripts* untuk kebutuhan interaksi aplikasi.
+- Membangun aplikasi VR dari berbagai skrip, model 3D, teks, dan audio.
+- Merancang dan mendesain *scene* tampilan VR.
 
-### 👑 CHAIRMAN
+### 👑 Ketua Himpunan
 **Himpunan Mahasiswa Jurusan Informatika, Universitas Langlangbuana**
-[cite_start]📅 2023 - 2024 [cite: 42, 43, 44, 45]
-- [cite_start]Mengelola dan mengoordinasikan seluruh program kerja, sumber daya, dan operasi organisasi[cite: 50].
-- [cite_start]Mewakili organisasi dan membangun hubungan strategis dengan pihak eksternal[cite: 50].
+📅 2023 - 2024
+- Mengelola dan mengoordinasikan seluruh program kerja, sumber daya, dan operasi organisasi.
+- Mewakili organisasi dan membangun hubungan strategis dengan pihak eksternal.
 
-### 🏫 Assistant Laboratory
-[cite_start]**Universitas Langlangbuana** 📅 September 2023 - September 2025 [cite: 14, 15, 16]
-- [cite_start]Membantu dosen dalam mengajarkan materi spesifik pemrograman, seperti dasar-dasar Java, Sistem Operasi, dan Jaringan Komputer[cite: 17].
-- [cite_start]Berkomunikasi secara efektif dengan mahasiswa dan rekan kerja dalam sikap yang profesional[cite: 18].
+### 🏫 Asisten Laboratorium
+**Universitas Langlangbuana** 📅 September 2023 - Februari 2026
+- Membantu dosen dalam mengajarkan materi spesifik pemrograman, seperti dasar-dasar Java, Sistem Operasi, dan Jaringan Komputer.
+- Berkomunikasi secara efektif dengan mahasiswa dan rekan kerja dalam sikap yang profesional.
 
-### 🎨 DIVISION CREATIVE
-[cite_start]**Himpunan Mahasiswa Jurusan Informatika, Universitas Langlangbuana** 📅 2022 - 2023 [cite: 30, 31, 32, 33]
-- [cite_start]Melakukan riset dan mengembangkan desain grafis[cite: 34].
-- [cite_start]Membuat desain untuk berbagai kebutuhan seperti logo, brosur, poster, website, dll[cite: 35, 36].
-- [cite_start]Berkolaborasi dengan tim kreatif untuk menghasilkan desain berkualitas[cite: 37].
+### 🎨 Divisi Kreatif
+**Himpunan Mahasiswa Jurusan Informatika, Universitas Langlangbuana** 📅 2022 - 2023
+- Melakukan riset dan mengembangkan desain grafis.
+- Membuat desain untuk berbagai kebutuhan seperti logo, brosur, poster, website, dll.
+- Berkolaborasi dengan tim kreatif untuk menghasilkan desain berkualitas.
 
-### 📦 DIVISION LOGISTIC
-[cite_start]**Organisasi Intra-Sekolah, SMA PLUS ASSALAAM** 📅 2018 - 2021 [cite: 19, 20, 21, 22]
-- [cite_start]Merencanakan pengadaan barang dan jasa yang sesuai dengan kebutuhan organisasi[cite: 23].
-- [cite_start]Menyusun daftar pengadaan serta melakukan pemantauan dan evaluasi terhadap proses pengadaan barang dan jasa[cite: 24].
+### 📦 Divisi Logistik
+**Organisasi Intra-Sekolah, SMA PLUS ASSALAAM** 📅 2018 - 2021
+- Merencanakan pengadaan barang dan jasa yang sesuai dengan kebutuhan organisasi.
+- Menyusun daftar pengadaan serta melakukan pemantauan dan evaluasi terhadap proses pengadaan barang dan jasa.
 
 ---
 
-## 🛠️ Proyek (Coming Soon)
+## 🛠️ Proyek Terkini
 
-Saat ini sedang dalam tahap pengembangan proyek akademik dan pribadi yang akan segera ditampilkan di sini. Tetap pantau halaman ini! 🚀
+- **Sistem Optimasi Penjadwalan Staf Bandara** | *Python, Metaheuristik*
+  Mengembangkan model optimasi multi-objektif untuk *rostering* staf lapangan di bandara.
+- **Aplikasi Mobile Travel Bus** | *Flutter*
+  Membangun desain antarmuka (UI/UX) dan *frontend* aplikasi pemesanan tiket perjalanan bus.
+- **Klasifikasi Citra Kain Tenun** | *MobileNetV2*
+  Membuat model klasifikasi citra untuk 7 jenis kain tenun dengan target akurasi tinggi menggunakan augmentasi data.
+- **Sistem Presensi Pengunjung Perpustakaan** | *RFID, Local Server*
+  Membangun sistem kehadiran pengunjung terintegrasi dengan kartu RFID beserta fitur pelaporan admin.
+- **Pengembangan Website Pemerintahan** | *React*
+  Membangun antarmuka (*frontend*) untuk portal informasi instansi pemerintah.
+- **Sistem Otentikasi & Enkripsi Data** | *Kriptografi*
+  Menerapkan algoritma kriptografi untuk keamanan transmisi data dan sistem otentikasi.
 
 ---
 
