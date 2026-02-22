@@ -32,7 +32,7 @@
 
 ## 🎓 Pendidikan
 
-**Universitas Langlangbuana** 📅 2021 - Sekarang  
+**Universitas Langlangbuana** 📅 2022 - Sekarang  
 🎓 Program Studi: **Teknik Informatika** 📊 IPK: **3.60**
 
 ---
@@ -86,9 +86,9 @@
 | Platform  | Tautan Profil                                         |
 | --------- | ----------------------------------------------------- |
 | Email     | [yuga.azka01@gmail.com](mailto:yuga.azka01@gmail.com) |
-| LinkedIn  | [-](#) _(Belum tersedia)_                             |
-| GitHub    | [github.com/yugaazka](https://github.com/yugaazka)    |
-| Instagram | [-](#) _(Belum tersedia)_                             |
+| LinkedIn  | [Yuga azka (Yuga'Z) al razzak](https://www.linkedin.com/in/yuga-azka-al-razzak-875970294/)|
+| GitHub    | [github.com/yugaazka](https://github.com/yugaazka)|
+| Instagram | [yugaz_963](https://www.instagram.com/yugaz_963/)|
 
 ---
 
