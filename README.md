@@ -72,12 +72,12 @@
 
 ## 🛠️ Proyek Terkini
 
-- **Sistem Optimasi Penjadwalan Staf Bandara** | *Python, Metaheuristik*
-  Mengembangkan model optimasi multi-objektif untuk *rostering* staf lapangan di bandara.
+- **Aplikasi PPID** | *CodeIgniter 4*
+  Aplikasi PPID berbasis CodeIgniter 4 untuk mengelola dan mempublikasikan informasi publik, lengkap dengan *login* admin, *CRUD* kategori, *CRUD* informasi, *upload*/*download* dokumen *PDF*, pencarian, filter kategori, dan *pagination*.
 - **Sistem Presensi Pengunjung Perpustakaan** | *RFID, Local Server*
   Membangun sistem kehadiran pengunjung terintegrasi dengan kartu RFID beserta fitur pelaporan admin.
-- **Sistem Otentikasi & Enkripsi Data** | *Kriptografi*
-  Menerapkan algoritma kriptografi untuk keamanan transmisi data dan sistem otentikasi.
+- **Sistem Informasi Surat Administrasi (SIATU)** | *CodeIgniter*
+  Sistem Informasi Surat Administrasi (SIATU) berbasis untuk mengelola surat masuk/keluar, data GTK dan siswa, profil sekolah, diklat, absensi rapat guru, serta laporan.
 
 ---
 
